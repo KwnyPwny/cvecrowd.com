@@ -1,2 +1,2 @@
 # cvecrowd.com
-Repository to submit bug reports for https://cvecrowd.com/
+Repository to submit questions, improvement proposals or bug reports for https://cvecrowd.com/
